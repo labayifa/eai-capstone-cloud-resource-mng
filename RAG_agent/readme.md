@@ -36,4 +36,9 @@ After setting up the environment variables and installing Streamlit, you can run
 streamlit run streamlit_ui.py
 ```
 
-The Streamlit UI will open in your web browser, where you can interact with the AWS S3 Pricing RAG Agent.
+The Streamlit UI will open in your web browser, where you can interact with the AWS S3 Deployment Assistant.
+
+# Deployment Example
+
+![AWS S3 Deployment Assistant
+AI Chatbot in Work](images/Screenshot 2024-10-21 213837.png)
