@@ -1,3 +1,4 @@
 # .gitignore content  
 .env  
 /agent_notebook.ipynb
+__pycache__/
