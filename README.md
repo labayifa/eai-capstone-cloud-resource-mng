@@ -14,7 +14,7 @@ export AWS_SECRET_ACCESS_KEY='rYKBlDlORgEZfNi0H99D8SdlIYXZhtpVWR5TYtRo'
 ### Backend Server
 To start the backend server:
 ```bash
-python3 rag_agent.py
+python3 s3_API_call_v3.py
 ```
 
 ### Chainlit Interface
@@ -24,7 +24,7 @@ chainlit run chat_agent_no_pilot_v2.py
 ```
 
 ## Project Structure
-- `rag_agent.py`: Backend server implementation
+- `s3_API_call_v3.py`: Backend server implementation
 - `chat_agent_no_pilot_v2.py`: Chainlit chat interface
 
 ## Additional Information
