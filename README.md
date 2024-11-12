@@ -20,12 +20,12 @@ python3 s3_API_call_v3.py
 ### Chainlit Interface
 To launch the Chainlit application:
 ```bash
-chainlit run chat_agent_no_pilot_v2.py
+chainlit run chat_agent_no_pilot_v3.py
 ```
 
 ## Project Structure
 - `s3_API_call_v3.py`: Backend server implementation
-- `chat_agent_no_pilot_v2.py`: Chainlit chat interface
+- `chat_agent_no_pilot_v3.py`: Chainlit chat interface
 
 ## Additional Information
 - Ensure all required dependencies are installed before running the application
