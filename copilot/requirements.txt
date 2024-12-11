@@ -1,0 +1,11 @@
+python-dotenv
+langchain-openai
+langchain
+faiss-cpu
+langchain-community
+langchain-text-splitters
+tavily-python
+chainlit
+requests
+pymongo
+dash

@@ -1,0 +1,66 @@
+:root {
+    --logo-image-with: 140px;
+    --header-height: 70px;
+    --navbar-width: 350px;
+    --app-root-margin-left: var(--navbar-width)
+}
+
+.mantine-AppShell-header {
+    height: var(--header-height);
+}
+
+.header-inner-container {
+    height: calc(var(--header-height));
+}
+
+/* .baylek-logo-image { width: var(--logo-image-with)}
+*/
+
+.baylek-logo-image {
+    width: var(--logo-image-width);
+    max-height: 60px;
+    /* Adjust as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-width {
+    height: 100%;
+    /* Ensures image scales within the container */
+    max-height: 100%;
+    /* Limits image height to container's max height */
+    width: auto;
+    /* Maintains aspect ratio */
+}
+
+
+.mantine-AppShell-navbar {
+    margin-top: calc(var(--header-height));
+    width: var(--navbar-width);
+}
+
+.mantine-AppShell-root {
+    margin-left: var(--app-root-margin-left);
+    margin-top: calc(var(--header-height));
+}
+
+@media only screen and (max-width: 61.99375em) {
+    :root {
+        --app-root-margin-left: 0px;
+        --logo-image-with: 80px;
+        --header-height: 50px;
+        --navbar-width: 100%;
+
+    }
+
+    .mantine-AppShell-navbar {
+        margin-left: 0px
+    }
+}
+
+.test {
+    /* border: 2px solid red; */
+    z-index: 2000px;
+    /* marginBottom: -8px; */
+}

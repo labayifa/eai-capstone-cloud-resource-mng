@@ -1,0 +1,40 @@
+Hi
+
+
+I am startup developer and we are implementing a solution that needs to handle a shared file explorer and this should work the same way we manage file on a local computer. basically any user can access the file at any time and modify it or delete it or even add new one. they can also create a folder or upload a folder accessible by all the users everyday.
+
+
+Our monthly budget is $20  and the specified usage pattern of 2400 users sending and receiving files daily from 8 am to 6 pm.
+
+
+I want the option 1 but I want to highlight that these users are in Asia
+I want my bucket name to be "cmu-africa-test-asia"
+here is the access key and secret key
+AWS_ACCESS_KEY_ID='AKIAU6GDZD3MNLTT7TON'
+AWS_SECRET_ACCESS_KEY='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'
+
+
+I want the option 1 but I want to highlight that these users are in Europe
+I want my bucket name to be "cmu-africa-test-europe"
+
+
+I want one more bucket with the option 2 in the united states region
+
+
+I have changed my mind, I no more need the bucket in Europe,
+Can you delete the bucket created in Europe
+
+
+I don't want the buckets anymore , so delete all of them
+
+
+
+To list all the buckets available in my account
+
+Can you show me all my S3 buckets?
+
+To upload a file to my S3 bucket
+I want to upload a file to my S3 bucket
+
+
+define the basic techinal terms before providing the solution
