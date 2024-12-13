@@ -3,7 +3,7 @@
 ### Team: Carmel Prosper SAGB0 & Birhanu Shimellis & Ellon & Alexis NGOGA 
 
 ## Link to the original Report Paper
-[Report Paper](./report.pdf)
+[Report Paper](./capstone-final-report.pdf)
 
 
 > ### Topic: 
