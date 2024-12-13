@@ -2,6 +2,10 @@
 ## Assistant for Effortless Cloud Resource Management and Experimentation
 ### Team: Carmel Prosper SAGB0 & Birhanu Shimellis & Ellon & Alexis NGOGA 
 
+## Link to the original Report Paper
+[Report Paper](./report.pdf)
+
+
 > ### Topic: 
 > Cloud resource management is important and cost critical for startup.
 
@@ -21,7 +25,7 @@
 
 ### Sequence Diagram
 > Here is an example of the sequence diagram of on scenario of the project
-![Sequence Diagram](./img/sequence-dia.png)
+![Sequence Diagram](./img/seq_diags.jpeg)
 
 To successfully run the project, you need to follow the following steps:
 > * First clone the project from the repository
@@ -43,19 +47,19 @@ After a successful installation of the dependencies, you can run the project by 
 export SECRET_KEY=<secret-dash>
 ```
 ```
-/crm_chatOps/dash$ python3 app.py 
+dash$ python3 app.py 
 ```
 > ### Dash UI: The Dash UI is available at http://localhost:8050
 ![Dash-UI](./img/ui.png)
 
 #### To run the chatagent you have to be in the copilot folder
 ```
-/crm_chatOps/copilot$ chainlit run chainlit_copilot.py 
+copilot$ chainlit run chainlit_copilot.py 
 ```
 #### To run the backend you have to be in the copilot folder in your terminal
 
 ```
-/crm_chatOps/copilot$ python3 s3_API_call_v3.py 
+copilot$ python3 s3_API_call_v3.py 
 ```
 > ### API Documentation: The api documentation is available at http://localhost:5000/apidocs
 ![Api-Doc](./img/api-docs.png)
