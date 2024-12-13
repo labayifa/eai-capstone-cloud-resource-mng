@@ -1,0 +1,333 @@
+{
+    "ymekhtoub@gmail.com": {
+        "lastname": "Mekhtoub",
+        "firstname": "Yazid",
+        "email": "ymekhtoub@gmail.com",
+        "password": "test"
+    },
+    "yazid.mekhtoub@charter.com": {
+        "lastname": "Mekhtoub",
+        "firstname": "Yazid",
+        "email": "yazid.mekhtoub@charter.com",
+        "password": "test"
+    },
+    "ymekhtoub90@gmail.com": {
+        "lastname": "Mekhtoub",
+        "firstname": "Yazid",
+        "email": "ymekhtoub90@gmail.com",
+        "password": "test"
+    },
+    "eberhanu@andrew.cmu.edu": {
+        "given_name": "Ellon",
+        "family_name": "Berhanu",
+        "email": "eberhanu@andrew.cmu.edu",
+        "password": "761198392707636"
+    },
+    "eber@andrew.cmu.edu": {
+        "given_name": "Ello",
+        "family_name": "Berhanu",
+        "email": "eber@andrew.cmu.edu",
+        "password": "761198392707636"
+    },
+    "eb@an.com": {
+        "given_name": "Ellon",
+        "last_name": "Berhanu",
+        "email": "eb@an.com",
+        "password": "12345686585",
+        "company_info": {
+            "name": "adgfhg",
+            "address": "Gasabo District\r\nKimironko 11 Ave 141"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "226346256325",
+            "secret_key": "134524362465"
+        },
+        "registration_date": "2024-11-17 17:17:44"
+    },
+    "abci@dc.com": {
+        "given_name": "Ellon",
+        "last_name": "Berhanu",
+        "email": "abci@dc.com",
+        "password": "123456789",
+        "company_info": {
+            "name": "Netlis",
+            "address": "Gasabo District\r\nKimironko 11 Ave 141"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "1234568",
+            "secret_key": "1242656"
+        },
+        "registration_date": "2024-11-17 17:27:19"
+    },
+    "abc@wer.com": {
+        "given_name": "Ellon",
+        "last_name": "Berhanu",
+        "email": "abc@wer.com",
+        "password": "1223453768747684",
+        "company_info": {
+            "name": "sfdhdfs",
+            "address": "Gasabo District\r\nKimironko 11 Ave 141"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "fshghfs463w46",
+            "secret_key": "sfhsfhs57457"
+        },
+        "registration_date": "2024-11-17 17:42:52"
+    },
+    "tyr@ellis.com": {
+        "given_name": "Ellon",
+        "last_name": "Berhanu",
+        "email": "tyr@ellis.com",
+        "password": "1135423652765768",
+        "company_info": {
+            "name": "asfdshgjgfd",
+            "address": "Gasabo District\r\nKimironko 11 Ave 141"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "sdfhdfghsg",
+            "secret_key": "gdhjghdfghd"
+        },
+        "registration_date": "2024-11-17 17:54:10"
+    },
+    "ellon.solomon@yahoo.com": {
+        "given_name": "Ellis",
+        "last_name": "Solomon",
+        "email": "ellon.solomon@yahoo.com",
+        "password": "pass1234",
+        "company_info": {
+            "name": "Adicol Tech",
+            "address": "Bote Road, Addis Ababa, Ethiopia"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [],
+            "other_platform": "Alibaba Cloud"
+        },
+        "aws_credentials": {
+            "access_key": "12345658578979806980790-70-707",
+            "secret_key": "fshfgjhfioha;oi pggjaiogaopdgjapof"
+        },
+        "registration_date": "2024-11-17 21:27:56"
+    },
+    "abcd.efg@hy.com": {
+        "given_name": "Ellon",
+        "last_name": "Berhanu",
+        "email": "abcd.efg@hy.com",
+        "password": "diganfpo a0tue9-0eitqr0pglamg ",
+        "company_info": {
+            "name": "Trios Cafe",
+            "address": "Gasabo District\r\nKimironko 11 Ave 141"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "l;adgopm;flha9+6+62",
+            "secret_key": ""
+        },
+        "registration_date": "2024-11-17 23:08:57"
+    },
+    "eberhanu@andrew.cmu.ed": {
+        "given_name": "Elliis",
+        "last_name": "SAGBO",
+        "email": "eberhanu@andrew.cmu.ed",
+        "password": "761198392707636",
+        "company_info": {
+            "name": "Ellis Coffee",
+            "address": "Jemo 2 Road"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "135147810461-489061-4690",
+            "secret_key": "341958149015u49u5-2489010"
+        },
+        "registration_date": "2024-11-18 22:08:34"
+    },
+    "ellis@gmail.com": {
+        "given_name": "Ellon Solomon",
+        "last_name": "Berhanu",
+        "email": "ellis@gmail.com",
+        "password": "pass1234",
+        "company_info": {
+            "name": "Ellis Coffee",
+            "address": "KG 11 Avenue\r\nHouse Number147 - E & D Mini Market"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "ewrfanrdpgolaknm dplga;",
+            "secret_key": "iokdanm[flg,[fgol,f"
+        },
+        "registration_date": "2024-11-19 09:44:25"
+    },
+    "maki@gmail.com": {
+        "given_name": "Maki",
+        "last_name": "Sol",
+        "email": "maki@gmail.com",
+        "password": "pass1234",
+        "company_info": {
+            "name": "Maki Resturant",
+            "address": "Jemo 2 Road"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [
+                "aws",
+                "azure",
+                "gcp"
+            ],
+            "other_platform": "Alibaba"
+        },
+        "aws_credentials": {
+            "access_key": "312410549ujidokgsfdpog",
+            "secret_key": "0294utjwiogjsplgmsfphos,"
+        },
+        "registration_date": "2024-11-19 11:10:06"
+    },
+    "bgirmash@andrew.cmu.edu": {
+        "given_name": "Birhanu",
+        "last_name": "Shimelis",
+        "email": "bgirmash@andrew.cmu.edu",
+        "password": "pass1234",
+        "company_info": {
+            "name": "Bre Bright Robotics",
+            "address": "Bole Road, 54766 ,Addis Ababa"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [
+                "aws"
+            ],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "AKIAU6GDZD3MNLTT7TON",
+            "secret_key": "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"
+        },
+        "registration_date": "2024-11-19 16:43:06"
+    },
+    "ellon.solomon@gmail.com": {
+        "given_name": "Ellon",
+        "last_name": "Ellis",
+        "email": "ellon.solomon@gmail.com",
+        "password": "pass1234",
+        "company_info": {
+            "name": "Ellis Coffee",
+            "address": "Bole, Addis Road"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [
+                "aws"
+            ],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "AKIAU6GDZD3MNLTT7TON",
+            "secret_key": "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"
+        },
+        "registration_date": "2024-11-19 17:16:24"
+    },
+    "ellon.solomon@cctech.com": {
+        "given_name": "Ellon",
+        "last_name": "Solomon",
+        "email": "ellon.solomon@cctech.com",
+        "password": "pass1234",
+        "company_info": {
+            "name": "CC Tech",
+            "address": "Washington, D.C."
+        },
+        "cloud_platforms": {
+            "selected_platforms": [
+                "aws"
+            ],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "AKIASXDWUCTLMD4BVEWV",
+            "secret_key": "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"
+        },
+        "registration_date": "2024-11-22 17:41:54"
+    },
+    "Natiabebe@cctech.com": {
+        "given_name": "Nati",
+        "last_name": "Abebe",
+        "email": "Natiabebe@cctech.com",
+        "password": "pass1234",
+        "company_info": {
+            "name": "CC Tech",
+            "address": "Washington DC"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [
+                "aws"
+            ],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "AKIASXDWUCTLMD4BVEWV",
+            "secret_key": "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"
+        },
+        "registration_date": "2024-11-22 18:23:59"
+    },
+    "breeshime@gmail.com": {
+        "given_name": "Birhanu ",
+        "last_name": "Shimelis",
+        "email": "breeshime@gmail.com",
+        "password": "asdf@123",
+        "company_info": {
+            "name": "breath and ride",
+            "address": "Kigali"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [
+                "aws"
+            ],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "AKIAU6GDZD3MNLTT7TON",
+            "secret_key": "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"
+        },
+        "registration_date": "2024-12-02 08:02:26"
+    },
+    "breeshimee@gmail.com": {
+        "given_name": "Alex",
+        "last_name": "Ngoga",
+        "email": "breeshimee@gmail.com",
+        "password": "asdf@123",
+        "company_info": {
+            "name": "Ali systems",
+            "address": "Kigali"
+        },
+        "cloud_platforms": {
+            "selected_platforms": [
+                "aws"
+            ],
+            "other_platform": ""
+        },
+        "aws_credentials": {
+            "access_key": "AKIAU6GDZD3MNLTT7TON",
+            "secret_key": "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"
+        },
+        "registration_date": "2024-12-02 08:12:27"
+    }
+}
