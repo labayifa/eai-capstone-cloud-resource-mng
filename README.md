@@ -4,7 +4,8 @@
 
 ## Link to the original Report Paper
 [Report Paper](./capstone-final-report.pdf)
-
+## Link to the Video
+[Video Presentation](https://youtu.be/0_Sx49l4VHQ)
 
 > ### Topic: 
 > Cloud resource management is important and cost critical for startup.
